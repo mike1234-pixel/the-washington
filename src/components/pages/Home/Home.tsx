@@ -13,12 +13,11 @@ export const Home = () => {
       <Section img={washington2} altText='the washington beer garden'>
         <h2>About</h2>
         <p>
-          We're a little off the beaten track, which is just the way we like
-          like. Not too far, mind. We're stumbling distance from Division
-          Street, on the bottom corner of Devonshire Green. We're the only city
-          centre pub to have a beer garden big enough to host our own music
-          festival in, and a dancefloor intimate enough to feel every groove of
-          every record.
+          We're a little off the beaten track, which is just the way we like it.
+          Not too far, mind. We're stumbling distance from Division Street, on
+          the bottom corner of Devonshire Green. We're the only city centre pub
+          to have a beer garden big enough to host our own music festival in,
+          and a dancefloor intimate enough to feel every groove of every record.
         </p>
         <p>
           <Link to='/about' className={styles.link}>
